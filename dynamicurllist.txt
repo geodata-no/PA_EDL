@@ -1,4 +1,8 @@
 *.stretchoid.com
+stretchoid.com
 *.censys-scanner.com
+censys-scanner.com
 *.internet-census.org
+internet-census.org
 *.pokeradio.net
+pokeradio.net
